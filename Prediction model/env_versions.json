@@ -1,0 +1,8 @@
+{
+  "python": "3.9.23",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "scikit_learn": "1.6.1",
+  "xgboost": "2.1.4"
+}
